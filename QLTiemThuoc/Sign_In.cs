@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QLTiemThuoc
 {
-    public partial class Form1 : Form
+    public partial class Sign_In : Form
     {
-        public Form1()
+        public Sign_In()
         {
             InitializeComponent();
         }

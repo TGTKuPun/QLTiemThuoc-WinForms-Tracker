@@ -1,6 +1,6 @@
 ﻿namespace QLTiemThuoc
 {
-    partial class Form1
+    partial class Sign_In
     {
         /// <summary>
         /// Required designer variable.

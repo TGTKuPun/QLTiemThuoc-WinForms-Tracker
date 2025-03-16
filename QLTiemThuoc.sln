@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLTiemThuoc", "QLTiemThuoc\QLTiemThuoc.csproj", "{154C2079-4A7D-4E88-876F-88661CD017B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "QLTiemThuoc\GUI.csproj", "{154C2079-4A7D-4E88-876F-88661CD017B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{315E68D2-38E6-4110-AC63-406859C6E301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F2DBEEC0-A5EB-43F8-8DC2-A631C2CABB4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOT", "DOT\DOT.csproj", "{C07DE26C-138A-4638-A33F-06C699457103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{154C2079-4A7D-4E88-876F-88661CD017B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{154C2079-4A7D-4E88-876F-88661CD017B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{154C2079-4A7D-4E88-876F-88661CD017B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315E68D2-38E6-4110-AC63-406859C6E301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315E68D2-38E6-4110-AC63-406859C6E301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315E68D2-38E6-4110-AC63-406859C6E301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315E68D2-38E6-4110-AC63-406859C6E301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DBEEC0-A5EB-43F8-8DC2-A631C2CABB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DBEEC0-A5EB-43F8-8DC2-A631C2CABB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DBEEC0-A5EB-43F8-8DC2-A631C2CABB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DBEEC0-A5EB-43F8-8DC2-A631C2CABB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07DE26C-138A-4638-A33F-06C699457103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07DE26C-138A-4638-A33F-06C699457103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07DE26C-138A-4638-A33F-06C699457103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07DE26C-138A-4638-A33F-06C699457103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
