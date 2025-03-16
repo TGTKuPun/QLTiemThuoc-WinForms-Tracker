@@ -97,7 +97,7 @@
             this.guna2TextBox2.PlaceholderText = "Password";
             this.guna2TextBox2.SelectedText = "";
             this.guna2TextBox2.Size = new System.Drawing.Size(412, 50);
-            this.guna2TextBox2.TabIndex = 4;
+            this.guna2TextBox2.TabIndex = 2;
             // 
             // pictureBox2
             // 
@@ -125,7 +125,7 @@
             this.guna2TextBox1.PlaceholderText = "Username";
             this.guna2TextBox1.SelectedText = "";
             this.guna2TextBox1.Size = new System.Drawing.Size(412, 50);
-            this.guna2TextBox1.TabIndex = 6;
+            this.guna2TextBox1.TabIndex = 1;
             // 
             // pictureBox3
             // 
