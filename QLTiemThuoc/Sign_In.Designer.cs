@@ -1,4 +1,6 @@
-﻿namespace QLTiemThuoc
+﻿
+
+namespace QLTiemThuoc
 {
     partial class Sign_In
     {
